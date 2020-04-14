@@ -1,0 +1,2 @@
+2020-04-14 09:40:25 <SQLAlchemy engine=sqlite:///F:\Computer\Python\Flask\watchlist\data.db>
+2020-04-14 09:40:25 <User 1>
